@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050424612342",
+    "firebase_url": "https://traileroffirebase.firebaseio.com",
+    "project_id": "traileroffirebase",
+    "storage_bucket": "traileroffirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050424612342:android:7789ba6cb1df53b7e3a3d7",
+        "android_client_info": {
+          "package_name": "com.example.traileroffirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050424612342-sotbt4up0m074sf5on4a1kpv36mple7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.traileroffirebase",
+            "certificate_hash": "9d086fa3ff1245bbbd7e1c65c4df91c6389bd405"
+          }
+        },
+        {
+          "client_id": "1050424612342-bsfduh1ipa582nl0h93vpkcticuc7nhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkzZkCn1sLMRirnwHxgCSjbyIdWeoomBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050424612342-bsfduh1ipa582nl0h93vpkcticuc7nhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

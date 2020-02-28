@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="299dp"
+        android:layout_height="68dp"
+        android:hint="item-name" />
+
+    <EditText
+        android:id="@+id/price"
+        android:layout_width="303dp"
+        android:layout_height="70dp"
+        android:hint="item-price"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/qty"
+        android:layout_width="313dp"
+        android:layout_height="86dp"
+        android:hint="quantity" />
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="137dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:hint="add"></Button>
+    <Button
+    android:id="@+id/retreive"
+    android:layout_width="137dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="80dp"
+    android:hint="reteive"></Button>
+</LinearLayout>
